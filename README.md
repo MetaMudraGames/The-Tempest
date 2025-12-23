@@ -20,6 +20,25 @@ Every time you speak or act, the AI:
 2.  **Compares** your choice to Shakespeare's original text.
 3.  **Analyzes** the deep psychological motivations behind the difference.
 
+       [Original Scene]
+             │
+             ▼
+      [Player Choice]
+             │
+      ┌──────┴──────┐
+      │             │
+[User Timeline] [Canonical Timeline]
+(New Reaction)  (Original Text)
+      │             │
+      └──────┬──────┘
+             ▼
+    [Dramaturge Analysis]
+    "Here is why your choice matters..."
+             │
+             ▼
+      [Next Scene]
+
+
 ## 🧠 Student Learning Outcomes (SLOs)
 
 By the end of this simulation, the learner will be able to:
