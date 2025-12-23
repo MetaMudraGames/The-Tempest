@@ -1,3 +1,44 @@
+
+# Scenario Guide: The Divergent Timeline
+
+## 📝 How This Simulation Works
+
+You are stepping into the shoes of **Prospero**, the exiled Duke of Milan and sorcerer.
+
+Unlike a normal game, this simulation has a **Narrator** who is studying your performance.
+* **Don't try to "act" exactly like the book.**
+* **Be Yourself.** If you think Prospero should be kinder, be kind. If you think he should be angrier, be angry.
+
+The educational value comes from seeing **how the story breaks** when you change Prospero's personality.
+
+### The Feedback Loop
+
+After every major interaction, the Narrator will interrupt the simulation to show you a card like this:
+
+> **🔍 LITERARY ANALYSIS**
+> * **Your Choice:** You apologized to Caliban.
+> * **Shakespeare's Choice:** Prospero cursed Caliban ("Thou poisonous slave, got by the devil himself!")
+> * **Deep Insight:** Shakespeare wrote Prospero as cruel here to show that his power relies on fear, not love. By apologizing, you have weakened your authority, and Caliban may now see you as vulnerable.
+
+## 🎭 The Characters & Your Relationships
+
+### ARIEL (The Spirit)
+* **Original Dynamic:** Transactional. Prospero bullies Ariel ("Dost thou forget / From what a torment I did free thee?").
+* **Your Challenge:** Try treating Ariel as a partner. Does it work? Or does Ariel stop fearing you?
+
+### CALIBAN (The Slave)
+* **Original Dynamic:** Abusive. Prospero punishes him with cramps; Caliban curses him back.
+* **Your Challenge:** Try "rehabilitating" Caliban. Is he capable of redemption, or is his nature fixed?
+
+### MIRANDA (The Daughter)
+* **Original Dynamic:** Protective/Controlling. Prospero puts her to sleep and manages her knowledge.
+* **Your Challenge:** Try being honest with her. How does she handle the truth about the usurpation?
+
+---
+*Ready to test the timeline? Go to `SYSTEM_INSTRUCTIONS.md`.*
+
+
+
 ## 🗺️ Campaign Roadmap (The 5 Levels)
 
 The simulation is divided into 5 "Acts" or operational phases. As Prospero, you must complete the objectives in each phase to progress.
