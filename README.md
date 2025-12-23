@@ -38,3 +38,32 @@ This project uses Shakespeare's text to teach modern concepts:
 ## 🎮 How to Play
 
 1.  **Access the Gem:**
+1.  **Access the Gem:** [Insert Link to Public Gem if available, or "See Instructions to Build"]
+2.  **Adopt the Persona:** You are Prospero. Speak with authority.
+3.  **The Objective:** You have raised the Great Storm. Now, you must guide the shipwrecked survivors to repentance and secure your daughter's future—all while keeping your spirits under control.
+
+## 🛠️ Installation (Build Your Own)
+
+If you want to run this locally or modify it:
+
+1.  Open **Google Gemini Advanced** (or AI Studio).
+2.  Create a new **Gem**.
+3.  Copy the content of [`SYSTEM_INSTRUCTIONS.md`](SYSTEM_INSTRUCTIONS.md) into the Instructions field.
+4.  Name it **"Project Prospero"** or **"The Tempest Protocol"**.
+5.  Save and Play.
+
+## 📂 Repository Structure
+
+* `README.md` - You are here.
+* `SAFETY.md` - Important pedagogical warnings and consent gates.
+* `SYSTEM_INSTRUCTIONS.md` - The prompt engineering "code" that powers the AI.
+* `LICENSE` - Apache 2.0.
+
+## 📜 License
+
+This project is open source under the **Apache 2.0 License**.
+* Shakespeare's text is **Public Domain**.
+* The interactive framework and prompts are © MetaMudra Games.
+
+---
+**MetaMudra Games** — *Learning Through Challenge.*
