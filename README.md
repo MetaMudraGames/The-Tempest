@@ -2,6 +2,58 @@
 
 **"We are such stuff as dreams are made on..."**
 
+> **Educational Focus:** Systems Thinking & Ethical Leadership  
+> **Teaching Style:** Adversarial Management Simulation  
+> **Status:** v1.0 (Prototype)
+
+---
+
+## 🎭 Overview
+
+**The Tempest: MetaDrama** is an interactive educational experience where you step into the role of **Prospero**, the exiled Duke and sorcerer.
+
+However, this is not just a play. It is a **leadership simulation**. 
+The Island is a closed system. The spirits (Ariel, Caliban) are autonomous agents. Your goal is to navigate the complex ethics of control, retribution, and forgiveness.
+
+## 🧠 Learning Objectives
+
+This MetaDrama uses Shakespeare's text to teach:
+
+1.  **Systems Thinking:** Managing a contained environment (The Island) where every action has a consequence on the ecosystem of characters.
+2.  **Prompt Engineering as Magic:** You must issue precise commands to Ariel (the AI Agent). Vague instructions lead to unintended consequences.
+3.  **Ethical Leadership:** Confronting the colonial themes of the text. Do you rule through fear (Caliban) or transaction (Ariel)? Can you choose forgiveness over vengeance?
+
+## ⚠️ Content Advisory
+
+This experience deals with specific themes from Shakespeare's text:
+* **Servitude & Colonialism:** The simulation explores the ethics of Prospero's ownership of Caliban and Ariel.
+* **Betrayal & Usurpation:** Dealing with political enemies.
+
+*See [MetaMudra Safety Framework](https://github.com/MetaMudraGames) for full safety details.*
+
+## 🚀 How to Play
+
+1.  **Prepare:** Follow the [MetaMudra Setup Guide](https://github.com/MetaMudraGames/blob/main/SETUP_GUIDE.md).
+    * Turn off AI Memory.
+    * Open a fresh chat.
+2.  **Build:** Copy the text from [`SYSTEM_INSTRUCTIONS.md`](SYSTEM_INSTRUCTIONS.md) into a new Google Gemini Gem.
+3.  **Start:** Type `I AGREE` when prompted to begin the simulation.
+
+## 📂 Repository Contents
+
+* `SYSTEM_INSTRUCTIONS.md`: The prompt engineering source code.
+* `SCENARIO_GUIDE.md`: Background on the characters and your role as Prospero.
+
+## 📜 License
+
+This project is part of **MetaMudra Games** and is released under the **Apache 2.0 License**.
+
+
+
+# The Tempest: A MetaDrama Protocol 🌪️
+
+**"We are such stuff as dreams are made on..."**
+
 > **Current Status:** v1.0 (Prototype)  
 > **Platform:** Gemini Gems (Google AI)  
 > **Genre:** Literary Simulation / Educational Roleplay
