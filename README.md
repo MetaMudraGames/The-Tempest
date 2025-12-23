@@ -1,3 +1,70 @@
+# The Tempest: A Comparative MetaDrama 🌪️
+
+**"What's past is prologue."**
+
+> **Educational Focus:** Shakespearean Literacy, Narrative Design, & Character Motivation  
+> **Mechanism:** Interactive Literary Simulation with Comparative Feedback  
+> **Status:** v2.0 (Pedagogical Core)
+
+---
+
+## 🎓 The Concept
+
+This is not just a roleplaying game. It is a tool for **Active Literary Criticism**.
+
+In a traditional classroom, you read *The Tempest* passively.
+In this MetaDrama, you **become Prospero**. You face the same choices he faced.
+
+Every time you speak or act, the AI:
+1.  **Simulates** the consequences of your unique choice (Creating a "Divergent Timeline").
+2.  **Compares** your choice to Shakespeare's original text.
+3.  **Analyzes** the deep psychological motivations behind the difference.
+
+## 🧠 Student Learning Outcomes (SLOs)
+
+By the end of this simulation, the learner will be able to:
+
+1.  **Linguistic Synthesis:** Construct dialogue that aligns with Early Modern English syntax and tone.
+2.  **Motivation Analysis:** articulate *why* Shakespeare wrote Prospero as arrogant and controlling by contrasting it with the consequences of playing him as kind or passive.
+3.  **Dramatic Causality:** Demonstrate how specific character traits (e.g., severity vs. mercy) drive the plot's conflict and resolution.
+4.  **Textual Appreciation:** Recall key plot points and original lines through active reconstruction rather than passive reading.
+
+## ⚙️ The "Divergence Engine" Loop
+
+The experience follows a strict pedagogical cycle:
+
+1.  **The Setup:** The AI sets the scene using the original NPC dialogue.
+2.  **The Choice:** You enter your dialogue as Prospero.
+3.  **The Divergence:** The story reacts to *your* specific tone.
+4.  **The Debrief:** The Narrator pauses the action to show you what Shakespeare's Prospero actually said and analyze the difference.
+
+## 🚀 How to Start
+
+1.  **Prepare:** Follow the [MetaMudra Setup Guide](https://github.com/MetaMudraGames/blob/main/SETUP_GUIDE.md).
+    * **Turn OFF** AI Memory.
+2.  **Build:** Copy the code from [`SYSTEM_INSTRUCTIONS.md`](SYSTEM_INSTRUCTIONS.md) into a new Gemini Gem.
+3.  **Play:** Type `I AGREE` to begin the study.
+
+## 📂 Repository Structure
+
+* `SYSTEM_INSTRUCTIONS.md` - The prompt engineering that drives the Comparative Analysis.
+* `SCENARIO_GUIDE.md` - Context for the player on how to interact with the analysis.
+
+## 📜 License
+
+Released under the **Apache 2.0 License**.
+Original text of *The Tempest* is Public Domain.
+
+
+
+
+
+
+
+
+
+
+
 # The Tempest: A MetaDrama Protocol 🌪️
 
 **"We are such stuff as dreams are made on..."**
